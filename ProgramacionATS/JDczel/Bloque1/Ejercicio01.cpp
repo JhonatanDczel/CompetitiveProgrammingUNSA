@@ -1,9 +1,9 @@
 #include <iostream>
 
-using namespace std; 
+using namespace std;
 
 int main(){
-   int numA, numB; 
-   cin>>numA >>numB;
-   cout<< numA + numB <<endl <<numA - numB <<"\n" <<numA / numB;
+  int a, b;
+  cin>>a >>b;
+  cout<<a + b << a - b << a * b << a / b;
 }
