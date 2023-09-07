@@ -1,0 +1,21 @@
+#include <iostream>
+#include <conio.h>
+#include <string.h>
+
+using namespace std;
+int main(){
+	char s[50];
+	char a[50];
+	cin.getline(s, 50,'\n');
+	cin.getline(a, 50,'\n');
+	strupr(s);
+	strupr(a);
+
+	if(strcmp(s, a) == 0){
+		cout<<"son iguales "<<endl;
+	}else{
+		cout<<"No son iguales "<<endl;
+	}
+	getch();
+	return 0;
+}
