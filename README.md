@@ -29,6 +29,10 @@
 
 ### Recursos:
 
-DRIVE <br> Del grupo | APUNTES <br> De reuniones | GRABACIÓN <br> De acuerdos
-:-:| :-: | :-: |
-[![](./imgs/icon_drive.png)](https://drive.google.com/drive/folders/1kJ0U_REMkcS41lAQ0J12hey4etieqVKW?usp=drive_link) | [![](./imgs/icon_pdf.png)](https://docs.google.com/document/d/1av7HvArdMKzZjNaBe0My_4ar6062NiIOZNuACqj2mIE/edit?usp=drive_link) | [![](./imgs/icon_youtube.png)](https://drive.google.com/file/d/1PExuDC1st7LMObMLqefseEqiBC-W6yIj/view)
+DRIVE <br> Del grupo | APUNTES <br> De reuniones | GRABACIÓN <br> De acuerdos | HANDBOOK <br> Competitive P.
+:-:| :-: | :-: | :-: |
+[![](./imgs/icon_drive.png)](https://drive.google.com/drive/folders/1kJ0U_REMkcS41lAQ0J12hey4etieqVKW?usp=drive_link) | [![](./imgs/icon_pdf.png)](https://docs.google.com/document/d/1av7HvArdMKzZjNaBe0My_4ar6062NiIOZNuACqj2mIE/edit?usp=drive_link) | [![](./imgs/icon_youtube.png)](https://drive.google.com/file/d/1PExuDC1st7LMObMLqefseEqiBC-W6yIj/view) | [![](./imgs/icon_pdf.png)](https://drive.google.com/file/d/1G171lYNzsMO1sr-MZ0Ks2ZEpO2sQzLVX/view?usp=drive_link)
+
+
+<b>PRIMERA ISLA: SINTAXIS DE C++</b><br>
+<b>SEGUNDA ISLA: HANDBOOK COMPETITIVE PROGRAMMING</b>
