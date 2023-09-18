@@ -3,6 +3,7 @@
 using namespace std;
 
 int main(){
-  int a = 1 , b = 23;
-  cout <<(a / b) + 1;
+  int a = 2, b = 1;
+  cout<<a / b + 1;
+  return 0;
 }
